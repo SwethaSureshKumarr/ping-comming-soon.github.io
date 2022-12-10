@@ -13,7 +13,6 @@ This is a solution to the [Ping coming soon page challenge on Frontend Mentor](h
   - [What I learned](#what-i-learned)
 
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -27,12 +26,6 @@ Users should be able to:
 - Receive an error message when the `form` is submitted if:
 	- The `input` field is empty. The message for this error should say *"Please add an email address"*
 	- The email address is not formatted correctly (i.e. a correct email address should have this structure: `name@gmail.com`). The message for this error should say *"Please provide a valid email address"*
-
-### Screenshot
-
-- !(./screen-shot/Result-desktop.png);
-- !(./screen-shot/Result-error.png);
-- !(./screen-shot/Result-mobile.png);
 
 ### Links
 
