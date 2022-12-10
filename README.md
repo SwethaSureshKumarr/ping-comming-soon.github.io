@@ -30,9 +30,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Result-desktop]- (./screen-shot/Result-desktop.png);
-![Result-error]- (./screen-shot/Result-error.png);
-![Result-mobile]- (./screen-shot/Result-mobile.png);
+- !(./screen-shot/Result-desktop.png);
+- !(./screen-shot/Result-error.png);
+- !(./screen-shot/Result-mobile.png);
 
 ### Links
 
